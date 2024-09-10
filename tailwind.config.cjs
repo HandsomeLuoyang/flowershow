@@ -15,7 +15,7 @@ module.exports = {
     extend: {
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
-        "8xl": "88rem",
+        "8xl": "140rem",
       },
       fontFamily: {
         sans: ["ui-sans-serif", ...defaultTheme.fontFamily.sans],
